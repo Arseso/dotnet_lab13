@@ -1,0 +1,60 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTreeTestHarness\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTreeTestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csprojAssemblyReference.cache
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.CoreCompileInputs.cache
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.CopyComplete
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+D:\Proba_VS_2017\10266\Labfiles\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe.config
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.AssemblyReference.cache
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.CoreCompileInputs.cache
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe.config
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+D:\Labs\Lab 13\Ex2\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTr.14AEC6D1.Up2Date

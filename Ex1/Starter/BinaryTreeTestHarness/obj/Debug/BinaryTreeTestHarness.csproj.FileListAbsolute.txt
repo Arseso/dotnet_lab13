@@ -1,0 +1,12 @@
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe.config
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.exe
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\EnumeratorTest.pdb
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.dll
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.dll
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\BinaryTree.pdb
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\bin\Debug\StressTestResult.pdb
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.AssemblyReference.cache
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTreeTestHarness.csproj.CoreCompileInputs.cache
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\obj\Debug\BinaryTr.14AEC6D1.Up2Date
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.exe
+D:\Labs\Lab 13\Ex1\Starter\BinaryTreeTestHarness\obj\Debug\EnumeratorTest.pdb

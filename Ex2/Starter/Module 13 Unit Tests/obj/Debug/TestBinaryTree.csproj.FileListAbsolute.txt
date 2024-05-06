@@ -1,0 +1,12 @@
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\TestBinaryTree.csproj.AssemblyReference.cache
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\TestBinaryTree.csproj.CoreCompileInputs.cache
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\TestBina.727C4B29.Up2Date
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+D:\Labs\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\Lab 13\\Ex2\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98299A17-0135-4927-9EDB-CE1745B933B4}|BinaryTree\\BinaryTree.csproj|d:\\labs\\lab 13\\ex2\\solution\\binarytree\\treeenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98299A17-0135-4927-9EDB-CE1745B933B4}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\treeenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeEnumerator.cs",
+              "DocumentMoniker": "D:\\Labs\\Lab 13\\Ex2\\Solution\\BinaryTree\\TreeEnumerator.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\TreeEnumerator.cs",
+              "ToolTip": "D:\\Labs\\Lab 13\\Ex2\\Solution\\BinaryTree\\TreeEnumerator.cs",
+              "RelativeToolTip": "BinaryTree\\TreeEnumerator.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:37:29.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

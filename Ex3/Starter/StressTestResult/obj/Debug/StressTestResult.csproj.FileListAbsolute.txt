@@ -1,0 +1,6 @@
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\bin\Debug\StressTestResult.dll
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\bin\Debug\StressTestResult.pdb
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.csproj.AssemblyReference.cache
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.csproj.CoreCompileInputs.cache
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.dll
+D:\Labs\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.pdb
